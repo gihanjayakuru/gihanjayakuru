@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihanjayakuru&label=Profile%20views&color=0e75b6&style=flat" alt="gihanjayakuru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gihanjayakuru" alt="gihanjayakuru" /></a> </p>
+-  I am actively seeking opportunities in software development roles that leverage my expertise in Laravel, Angular, NestJS, .NET, and Node.js.**
 
 - 🔭 I’m currently working on [E-commerce MEAN stack application](https://github.com/gihanjayakuru/e_com_app)
 
-- 🌱 I’m currently learning **Angular,NestJS,.Net,Node**
+- 🌱 I’m currently learning **Laravel,Angular,NestJS,.Net,Node,Express.js**
 
 - 📫 How to reach me **gihanjayakuru@gmail.com**
 
